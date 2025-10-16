@@ -1,0 +1,14 @@
+artifact_uri: file:///home/paminidigehsara/Desktop/MLflow/mlruns/491344806451334198/e693f24bef3842c58c7a5283c23606ba/artifacts
+end_time: 1760636101144
+entry_point_name: ''
+experiment_id: '491344806451334198'
+lifecycle_stage: active
+run_id: e693f24bef3842c58c7a5283c23606ba
+run_name: fearless-hen-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760635940285
+status: 3
+tags: []
+user_id: porya

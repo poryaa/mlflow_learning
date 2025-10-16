@@ -1,0 +1,14 @@
+artifact_uri: file:///home/paminidigehsara/Desktop/MLflow/mlruns/491344806451334198/a786ef71c1bc4f64810f34c5a31ea246/artifacts
+end_time: 1760636164227
+entry_point_name: ''
+experiment_id: '491344806451334198'
+lifecycle_stage: active
+run_id: a786ef71c1bc4f64810f34c5a31ea246
+run_name: hilarious-fox-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760636105158
+status: 3
+tags: []
+user_id: porya

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/paminidigehsara/Desktop/MLflow/mlruns/491344806451334198/2cd4c5a454f54fe8b010efcc8531a51d/artifacts
+end_time: 1760637105599
+entry_point_name: ''
+experiment_id: '491344806451334198'
+lifecycle_stage: active
+run_id: 2cd4c5a454f54fe8b010efcc8531a51d
+run_name: welcoming-flea-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760636167416
+status: 3
+tags: []
+user_id: porya
