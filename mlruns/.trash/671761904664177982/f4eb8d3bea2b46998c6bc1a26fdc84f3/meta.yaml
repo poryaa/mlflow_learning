@@ -1,8 +1,9 @@
 artifact_uri: file:///home/paminidigehsara/Desktop/MLflow/mlruns/671761904664177982/f4eb8d3bea2b46998c6bc1a26fdc84f3/artifacts
+deleted_time: 1760621452987
 end_time: 1760616009249
 entry_point_name: ''
 experiment_id: '671761904664177982'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f4eb8d3bea2b46998c6bc1a26fdc84f3
 run_name: popular-snail-11
 source_name: ''

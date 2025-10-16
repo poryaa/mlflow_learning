@@ -1,8 +1,9 @@
 artifact_uri: file:///home/paminidigehsara/Desktop/MLflow/mlruns/671761904664177982/446368965c144cf3914ed6fa1832b75e/artifacts
+deleted_time: 1760621452987
 end_time: 1760615911848
 entry_point_name: ''
 experiment_id: '671761904664177982'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 446368965c144cf3914ed6fa1832b75e
 run_name: sincere-shoat-615
 source_name: ''
