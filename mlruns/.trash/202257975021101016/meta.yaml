@@ -1,0 +1,9 @@
+artifact_location: file:///home/paminidigehsara/Desktop/MLflow/mlruns/202257975021101016
+creation_time: 1760614836668
+experiment_id: '202257975021101016'
+last_update_time: 1760615797727
+lifecycle_stage: deleted
+name: first_experiment_for_test
+tags:
+  mlflow.experimentKind: custom_model_development
+  version: v1

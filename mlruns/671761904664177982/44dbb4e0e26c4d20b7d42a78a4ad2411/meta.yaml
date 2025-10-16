@@ -1,0 +1,14 @@
+artifact_uri: file:///home/paminidigehsara/Desktop/MLflow/mlruns/671761904664177982/44dbb4e0e26c4d20b7d42a78a4ad2411/artifacts
+end_time: 1760616007861
+entry_point_name: ''
+experiment_id: '671761904664177982'
+lifecycle_stage: active
+run_id: 44dbb4e0e26c4d20b7d42a78a4ad2411
+run_name: clumsy-ox-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760616007857
+status: 3
+tags: []
+user_id: paminidigehsara
